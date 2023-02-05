@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 
 function Home() {
   return (
-<View>
+<View  style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
     <Text>welcome</Text>
 </View>  )
 }
