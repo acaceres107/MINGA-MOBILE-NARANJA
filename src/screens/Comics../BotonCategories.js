@@ -44,6 +44,4 @@ const styles = StyleSheet.create({
 
 
 
-   {/*    {categories.map((e, index) => {
-        return <Buttom  key={index} num={index} id={e._id} name={e.name} ></Buttom>;
-      })} */}
+ 
